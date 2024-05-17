@@ -1,6 +1,6 @@
 # Random-Games
 
-- ROCK-PAPER-SCISSORS
+# ROCK-PAPER-SCISSORS
 
 Rock-Paper-Scissors is a game played to settle disputes between two people. The game is played with three possible hand signals that represent a rock, paper, and scissors. The rock is a closed fist; paper is a flat hand with fingers and thumb extended and the palm facing downward; and scissors is a fist with the index and middle fingers fully extended toward the opposing player. Rock wins against scissors; paper wins against rock; and scissors wins against paper. If both players throw the same character, it is considered a tie, and play resumes until there is a clear winner.
 
@@ -15,7 +15,7 @@ INPUT AND OUTPUT :
 - At the end of the game, Player with maximum number of points wins the game.
 
 
-- FIZZ-BUZZ-GAME
+# FIZZ-BUZZ-GAME
 Players generally sit in a circle. The player designated to go first says the number "one", and the players then count upwards in turn. However, any number divisible by three is replaced by the word fizz and any number divisible by five by the word buzz. Numbers divisible by both three and five (i.e. divisible by fifteen) become fizz buzz. A player who hesitates or makes a mistake is eliminated.
 
 For example, a typical round of fizz buzz would start as follows:
